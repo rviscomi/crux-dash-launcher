@@ -10,7 +10,7 @@ Launch directly into your own customized CrUX Dashboard.
 
 **Does it work for all websites?** No. The CrUX dataset tracks about 6 million popular websites monthly. If your website isn't popular enough, it won't be in the dataset. Don't ask how popular is popular enough, we won't say.
 
-**How is this different from using g.co/chromeuxdash?** When you go through the connector, you're generating your own personal copy of the CrUX Dashboard. This tool, on the other hand, launches you into a read-only version of a shared public dashboard.
+**How is this different from using [g.co/chromeuxdash](https://g.co/chromeuxdash)?** When you go through the connector, you're generating your own personal copy of the CrUX Dashboard. This tool, on the other hand, launches you into a read-only version of a shared public dashboard.
 
 ![image](https://user-images.githubusercontent.com/1120896/83104911-b2dbcd80-a087-11ea-96f5-3f3789037e96.png)
 
