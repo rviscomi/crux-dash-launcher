@@ -6,7 +6,9 @@ Launch directly into your own customized CrUX Dashboard.
 2. Submit a valid origin
 3. Get redirected to your own dashboard
 
-What is a valid origin? `https://www.example.com`. Protocol (HTTP or HTTPS), optional subdomain (www), and domain (example.com). No trailing slash (/) or file path (/rviscomi/crux-dash-launcher/).
+**What is a valid origin?** `https://www.example.com`. Protocol (HTTP or HTTPS), optional subdomain (www), and domain (example.com). No trailing slash (/) or file path (/rviscomi/crux-dash-launcher/).
+
+**Does it work for all websites?** No. The CrUX dataset tracks about 6 million popular websites monthly. If your website isn't popular enough, it won't be in the dataset. Don't ask how popular is popular enough, we won't say.
 
 ![image](https://user-images.githubusercontent.com/1120896/83104911-b2dbcd80-a087-11ea-96f5-3f3789037e96.png)
 
