@@ -38,7 +38,8 @@ var form = document.getElementById('form');
 var origin = document.getElementById('origin');
 form.addEventListener('submit', function(e) {
   e.preventDefault();
-  var encoded_origin = encodeURIComponent(origin.value);
+  var url = new URL(origin.value);
+  var encoded_origin = encodeURIComponent(url.origin);
   var url = 'https://datastudio.google.com/reporting/bbc5698d-57bb-4969-9e07-68810b9fa348/page/keDQB?params=%7B%22origin%22:%22' + encoded_origin + '%22%7D';
   window.location = url;
 });
