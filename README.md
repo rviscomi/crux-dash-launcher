@@ -2,7 +2,7 @@
 
 Launch directly into your own customized CrUX Dashboard.
 
-1. Go to https://rviscomi.github.io/crux-dash-launcher/index.html
+1. Go to https://rviscomi.github.io/crux-dash-launcher/
 2. Submit a valid origin
 3. Get redirected to your own dashboard
 
